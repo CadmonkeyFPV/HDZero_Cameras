@@ -2,10 +2,11 @@
 
 Body and cover which supports the HD Zero Nano Cam (not to be confused with the original RunCam HD Nano) sensor board, which uses the same sensor as the Micro cam that is hard to acquire presently, and allow the use of an M12 lens.
 
-- Print in ABS using a 0.25mm nozzle at 0.04mm layer height for best thread resolution. 
+- Print in ABS using a 0.25mm nozzle at 0.04mm layer height for best thread resolution
 - 3 perimeters minimum
-- Infill can be any pattern and percentage - I have been using 40% gyroid infill.
-- Should be possible to print with 0.40mm nozzle, threads may require chasing with an M12x0.5 tap, or using the edge of an M3x0.5 tap or filed down screw.
+- Infill can be any pattern and percentage - I have been using 40% gyroid infill
+- Should be possible to print with 0.40mm nozzle, threads may require chasing with an M12x0.5 tap, or using the edge of an M3x0.5 tap or filed down screw
+- STLs are in print orientation. I didn't have any issues with adhesion but a brim can be added (outside only) and easily removed
 
 
 ![Rear_Rendering](Nano19_Rendering_01.png)
